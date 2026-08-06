@@ -13,4 +13,4 @@ This repository contains my solutions to various DSA problems categorized by top
 
 | # | Problem Name | Platform | Difficulty | Solution Link |
 |---|--------------|----------|------------|---------------|
-| 84 | [Largest Rectangle in Histogram]([https://leetcode.com]) | LeetCode | Hard | [Solution]([./Arrays/TwoSum.cpp](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/2088530698/)) |
+| 84 | [Largest Rectangle in Histogram]([https://leetcode.com]) | LeetCode | Hard | [Solution]((https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/2088530698/)) |
