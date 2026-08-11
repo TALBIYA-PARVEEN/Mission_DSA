@@ -10,6 +10,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0239-sliding-window-maximum) |
 | [0605-can-place-flowers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0605-can-place-flowers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,4 +83,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0239-sliding-window-maximum) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
