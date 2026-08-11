@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0239-sliding-window-maximum) |
 | [0605-can-place-flowers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0605-can-place-flowers) |
@@ -43,18 +44,22 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Range Minimum/Maximum Query
 |  |
