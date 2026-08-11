@@ -1,21 +1,22 @@
 class Solution {
     public int trap(int[] height) {
-        int n=height.length;
-        int sum=0;
-        Stack<Integer> stk=new Stack<>();
-        for(int i=0;i<n;i++){
-            while(!stk.isEmpty() && height[stk.peek()]<height[i]){
-                int height_val=height[stk.peek()];
-                stk.pop();
-                int left=0;
-                if(!stk.isEmpty())left=stk.peek();
-                else break;
-                int width=i-left-1;
-                int bounded=Math.min(height[left],height[i])-height_val;
-                sum+=width*bounded;
+        int l=0;
+        int r=height.length-1;
+        int lm=Integer.MIN_VALUE;
+        int rm=Integer.MIN_VALUE;
+        int total=0;
+        while(l<=r){
+            if(height[l]<=height[r]){
+                if(lm<=height[l])lm=height[l];
+                else total+=lm-height[l];
+                l++;
             }
-            stk.push(i);
+            else{
+                if(rm<=height[r])rm=height[r];
+                else total+=rm-height[r];
+                r--;
+            }
         }
-        return sum;
+        return total;
     }
 }
