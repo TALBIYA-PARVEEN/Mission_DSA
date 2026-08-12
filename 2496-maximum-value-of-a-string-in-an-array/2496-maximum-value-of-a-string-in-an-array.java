@@ -3,7 +3,8 @@ class Solution {
         int max=0;
         int length=0;
         for(int i=0;i<strs.length;i++){
-            boolean flag=strs[i].matches(".*[a-zA-Z].*");
+            boolean flag = strs[i].chars().anyMatch(Character::isLetter);
+
             if(flag){
                 length=strs[i].length();
                 max=Math.max(length,max);
