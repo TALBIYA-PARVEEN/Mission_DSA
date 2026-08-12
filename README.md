@@ -25,11 +25,13 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0605-can-place-flowers) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
