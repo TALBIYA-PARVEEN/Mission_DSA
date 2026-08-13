@@ -1,36 +1,21 @@
 class Solution {
-public List<List<Integer>> subsetsWithDup(int[] nums) {
-    Arrays.sort(nums);
-    Set<List<Integer>> ans = new HashSet<>();
-
-    List<Integer> temp = new ArrayList<>();
-
-    recursion(nums, 0, temp, ans);
-
-    return new ArrayList<>(ans);
-}
-
-public void recursion(
-    int[] nums,
-    int i,
-    List<Integer> temp,
-    Set<List<Integer>> ans
-) {
-
-    if (i == nums.length) {
-        ans.add(new ArrayList<>(temp));
-        return;
+    public List<List<Integer>> subsetsWithDup(int[] nums) {
+        Arrays.sort(nums);
+        Set<List<Integer>> ans=new HashSet<>();
+        int n=nums.length;
+        int i=0;
+        ArrayList<Integer> temp=new ArrayList<>();
+        recursion(nums,i,temp,ans);
+        return new ArrayList<>(ans);
     }
-
-    // Take nums[i]
-    temp.add(nums[i]);
-
-    recursion(nums, i + 1, temp, ans);
-
-    // Backtrack
-    temp.remove(temp.size() - 1);
-
-    // Don't take nums[i]
-    recursion(nums, i + 1, temp, ans);
-}
+    public void recursion(int[] nums, int i,List<Integer> temp,Set<List<Integer>> ans){
+        if(i>=nums.length){
+            ans.add(new ArrayList<>(temp));
+            return;
+        }
+        temp.add(nums[i]);
+        recursion(nums,i+1,temp,ans);
+        temp.remove(temp.size()-1);
+        recursion(nums,i+1,temp,ans);
+    }
 }
