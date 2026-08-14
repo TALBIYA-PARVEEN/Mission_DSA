@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -49,6 +50,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0090-subsets-ii) |
