@@ -7,7 +7,6 @@ class Solution {
     public void recursion(int idx,int k,ArrayList<Integer> temp,List<List<Integer>> ans,int n){
         if(k==temp.size()){
             ans.add(new ArrayList<Integer>(temp));
-            return;
         }
         for(int i=idx;i<=n;i++){
             temp.add(i);
