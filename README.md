@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0050-powx-n) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -124,4 +125,8 @@
 | ------- |
 | [0078-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0090-subsets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
