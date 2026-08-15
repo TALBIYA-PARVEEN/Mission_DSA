@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1922-count-good-numbers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -129,4 +130,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
