@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -54,6 +55,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0078-subsets) |
@@ -72,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,4 +134,8 @@
 | ------- |
 | [0050-powx-n](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1922-count-good-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
