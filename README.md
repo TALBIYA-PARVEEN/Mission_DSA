@@ -83,6 +83,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1922-count-good-numbers) |
 ## Bracket Sequences
 |  |
@@ -171,4 +174,5 @@
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
