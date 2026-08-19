@@ -102,6 +102,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -179,4 +181,12 @@
 | [0092-reverse-linked-list-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
