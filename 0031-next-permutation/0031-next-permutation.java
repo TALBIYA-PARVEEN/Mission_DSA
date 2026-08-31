@@ -2,30 +2,23 @@ class Solution {
     public void nextPermutation(int[] nums) {
         int n=nums.length;
         int i=n-2;
-        while(i>=0 && nums[i]>=nums[i+1]){
-            i--;
+        for(;i>=0;i--){
+            if(nums[i]<nums[i+1])break;
         }
-        int j=n-1;
         if(i>=0){
-            while(j>i && nums[i]>=nums[j]){
-                j--;
-            }
+            int j=n-1;
+            while(j>i && nums[j]<=nums[i])j--;
+            int temp=nums[j];
+            nums[j]=nums[i];
+            nums[i]=temp;
         }
-        if (i == -1) {
-            reverse(nums, 0, n - 1);
-            return;
-        }
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
-        reverse(nums,i+1,n-1);
-        // return nums;
+        reverse(i+1,n-1,nums);
     }
-    public static void reverse(int[] nums,int start,int end){
+    public void reverse(int start,int end,int[] a){
         while(start<end){
-            int temp=nums[start];
-            nums[start]=nums[end];
-            nums[end]=temp;
+            int temp=a[start];
+            a[start]=a[end];
+            a[end]=temp;
             start++;
             end--;
         }
