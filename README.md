@@ -27,6 +27,7 @@
 | [0605-can-place-flowers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2643-row-with-maximum-ones](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -187,6 +188,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0079-word-search) |
+| [2643-row-with-maximum-ones](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
 ## Linked List
 |  |
 | ------- |
