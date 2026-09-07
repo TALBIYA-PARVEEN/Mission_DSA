@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0078-subsets) |
@@ -52,6 +53,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1922-count-good-numbers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -186,6 +188,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0079-word-search) |
 | [2643-row-with-maximum-ones](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
