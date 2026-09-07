@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -184,6 +185,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0079-word-search) |
 ## Linked List
 |  |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
