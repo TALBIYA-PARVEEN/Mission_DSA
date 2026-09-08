@@ -184,6 +184,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -209,6 +210,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -221,6 +223,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -231,6 +234,7 @@
 | [0101-symmetric-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0112-path-sum) |
 ## DP on Trees
 |  |
 | ------- |
