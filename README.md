@@ -186,6 +186,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,4 +239,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0054-spiral-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
