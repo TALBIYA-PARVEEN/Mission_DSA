@@ -24,9 +24,7 @@ class Solution {
         lst.add(root.val);
         temp+=root.val;
         if(root.left==null && root.right==null && temp==sum){
-            if (temp == sum) {
-                ans.add(new ArrayList<>(lst));
-            }
+            ans.add(new ArrayList<>(lst));
             lst.remove(lst.size() - 1);
             temp-=root.val;
             return;
