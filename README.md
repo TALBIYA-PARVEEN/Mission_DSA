@@ -26,6 +26,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0605-can-place-flowers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -83,6 +84,7 @@
 | [0090-subsets-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0216-combination-sum-iii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -104,6 +106,7 @@
 | [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -168,6 +171,7 @@
 | ------- |
 | [0078-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0090-subsets-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
 |  |
@@ -284,4 +288,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
