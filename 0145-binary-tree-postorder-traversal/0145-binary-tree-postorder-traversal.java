@@ -18,26 +18,21 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         if (root == null) return ans;
 
-        Stack<TreeNode> stack = new Stack<>();
-        TreeNode curr = root;
-        TreeNode prev = null;
+        Stack<TreeNode> stack1 = new Stack<>();
+        Stack<TreeNode> stack2 = new Stack<>();
+        stack1.push(root);
 
-        while (curr != null || !stack.isEmpty()) {
-            if (curr != null) {
-                stack.push(curr);
-                curr = curr.left;
-            } 
-            else {
-                TreeNode top = stack.peek();
-                if (top.right != null && top.right != prev) {
-                    curr = top.right;
-                } 
-                else {
-                    ans.add(top.val);
-                    prev = stack.pop();
-                }
-            }
+        while (!stack1.isEmpty()) {
+            TreeNode curr = stack1.pop();
+            stack2.push(curr);
+            if(curr.left!=null)stack1.push(curr.left);
+            if(curr.right!=null)stack1.push(curr.right);
+        }
+        while (!stack2.isEmpty()) {
+            TreeNode temp=stack2.pop();
+            ans.add(temp.val);
         }
         return ans;
+    
     }
 }
