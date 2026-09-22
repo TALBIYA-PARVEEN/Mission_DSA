@@ -7,7 +7,7 @@ class Solution {
                 bucket[i]+=nums[index];
                 if(backtrack(target,index-1,nums,bucket))return true;
                 bucket[i]-=nums[index];
-                if(bucket[i] == 0)break;
+                // if(bucket[i] == 0)break;
             }
         }
         return false;
