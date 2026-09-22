@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0222-count-complete-tree-nodes](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
@@ -172,6 +173,7 @@
 | ------- |
 | [0078-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
@@ -236,6 +238,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0563-binary-tree-tilt) |
@@ -258,6 +261,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0563-binary-tree-tilt) |
