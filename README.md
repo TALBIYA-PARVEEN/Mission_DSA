@@ -154,6 +154,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -205,6 +206,7 @@
 | [0563-binary-tree-tilt](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0687-longest-univalue-path) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 | [0563-binary-tree-tilt](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0687-longest-univalue-path) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,6 +263,7 @@
 | [0563-binary-tree-tilt](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0687-longest-univalue-path) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -270,6 +274,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
