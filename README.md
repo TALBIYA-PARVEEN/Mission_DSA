@@ -107,6 +107,7 @@
 | [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -199,6 +200,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -234,6 +236,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -257,6 +260,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -282,6 +286,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0687-longest-univalue-path) |
