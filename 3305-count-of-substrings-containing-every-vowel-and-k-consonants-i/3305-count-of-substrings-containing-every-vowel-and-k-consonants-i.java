@@ -22,6 +22,27 @@
 //                 else consonant_cnt--;
 //                 left++;
 //             }
+//             while(consonant_cnt>k){
+//                 if(c[left]=='a' || c[left]=='e' || c[left]=='i' || c[left]=='o' || c[left]=='u'){
+//                     if(map.get(c[left]) == 1)
+//                         map.remove(c[left]);
+//                     else
+//                         map.put(c[left], map.get(c[left]) - 1);
+//                 }
+//                 else consonant_cnt--;
+//                 left++;
+//             }
+//         }
+//         while(left<n){
+//             if(c[left]=='a' || c[left]=='e' || c[left]=='i' || c[left]=='o' || c[left]=='u'){
+//                 if(map.get(c[left]) == 1)
+//                     map.remove(c[left]);
+//                 else
+//                     map.put(c[left], map.get(c[left]) - 1);
+//             }
+//             else consonant_cnt--;
+//             if(map.size()==5 && consonant_cnt==k)cnt++;
+//             left++;
 //         }
 //         return cnt;
 //     }
@@ -29,42 +50,22 @@
 
 class Solution {
     public int countOfSubstrings(String word, int k) {
-        int count = 0;
-        for (int i = 0; i < word.length(); i++) {
-            String str = "";
-            for (int j = i; j < word.length(); j++) {
-                str = str + word.charAt(j);
-                if (str.length() >= 5 && isVowel(str) && isCons(str, k)) {
-                    count++;
+        int n=word.length();
+        char[] c=word.toCharArray();
+        int cnt=0;
+        for(int i=0;i<n;i++){
+            int consonant_cnt=0;
+            HashMap<Character,Integer> map=new HashMap<>(); 
+           for(int j=i;j<n;j++){
+                if(c[j]=='a' || c[j]=='e' || c[j]=='i'||c[j]=='o'||c[j]=='u' ){
+                    map.put(c[j],map.getOrDefault(c[j],0)+1);
                 }
-            }
+                else consonant_cnt++;
+                if(consonant_cnt>k)break;
+                if(map.size()==5 && consonant_cnt==k)cnt++;
+           }
         }
-        return count;
-    }
-
-    public static boolean isVowel(String str) {
-        if (str.contains("" + 'a') && str.contains("" + 'e') &&
-                str.contains("" + 'i') && str.contains("" + 'o') &&
-                str.contains("" + 'u')) {
-                    return true;
-        }
-        return false;
-    }
-    public static boolean isCons(String str, int k){
-        int count = 0;
-        for(char ch : str.toCharArray()){
-            if(ch != 'a' && ch != 'e' && ch != 'i' &&
-             ch != 'o' && ch != 'u'){
-                count++;
-                if(count > k){
-                    return false;
-                }
-             }
-        }
-        if(k > count){
-            return false;
-        }else{
-            return true;
-        }
+        return cnt;
     }
 }
+
