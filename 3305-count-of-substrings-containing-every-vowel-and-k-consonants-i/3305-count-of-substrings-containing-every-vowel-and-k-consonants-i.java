@@ -61,7 +61,7 @@ class Solution {
                     map.put(c[j],map.getOrDefault(c[j],0)+1);
                 }
                 else consonant_cnt++;
-                if(consonant_cnt>k)break;
+                // if(consonant_cnt>k)break;
                 if(map.size()==5 && consonant_cnt==k)cnt++;
            }
         }
