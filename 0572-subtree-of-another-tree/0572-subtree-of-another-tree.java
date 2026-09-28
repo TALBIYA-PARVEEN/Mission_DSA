@@ -16,16 +16,15 @@
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
         if(root==null)return false;
-        if(subRoot==null)return false;
-        if(root.val==subRoot.val && same(root,subRoot)){
-            return true;
-        }
+        if(subRoot==null)return true;
+        if(root.val==subRoot.val && dfs(root,subRoot))return true;
         return isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot);
+        
     }
-    public boolean same(TreeNode root, TreeNode subRoot){
+    public boolean dfs(TreeNode root,TreeNode subRoot){
         if(subRoot==null && root==null)return true;
-        if(root ==null || subRoot==null)return false;
+        if(subRoot==null || root==null)return false;
         if(subRoot.val!=root.val)return false;
-        return same(root.left,subRoot.left) && same(root.right,subRoot.right);
+        return (dfs(root.left,subRoot.left) && dfs(root.right,subRoot.right));
     }
 }
