@@ -25,6 +25,7 @@
 | [0239-sliding-window-maximum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0605-can-place-flowers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -111,6 +112,7 @@
 | [0053-maximum-subarray](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -367,4 +369,12 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
