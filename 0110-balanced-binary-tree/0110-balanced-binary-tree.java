@@ -14,8 +14,8 @@
  * }
  */
 class Solution {
-    int max=0;
     public boolean isBalanced(TreeNode root) {
+        if(root==null)return true;
         if(dfs(root)!=-1)return true;
         return false;
     }
@@ -25,10 +25,9 @@ class Solution {
         if(l==-1)return -1;
         int r=dfs(root.right);
         if(r==-1)return -1;
-        if (Math.abs(l-r) > 1) {
-            return -1; 
-        }
-        max=Math.max(l,r);
+        // max=Math.max(l,r);
+        int diff=Math.abs(l-r);
+        if(diff>1)return -1;
         return Math.max(l,r)+1;
     }
 }
