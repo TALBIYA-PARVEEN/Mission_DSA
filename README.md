@@ -20,6 +20,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0239-sliding-window-maximum) |
@@ -48,6 +49,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0349-intersection-of-two-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -252,6 +255,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0112-path-sum) |
@@ -285,6 +289,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0112-path-sum) |
