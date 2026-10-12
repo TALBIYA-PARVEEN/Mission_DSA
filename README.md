@@ -74,6 +74,7 @@
 | [0079-word-search](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0079-word-search) |
 | [0657-robot-return-to-origin](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0657-robot-return-to-origin) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -107,6 +108,7 @@
 | [0234-palindrome-linked-list](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -350,6 +352,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
