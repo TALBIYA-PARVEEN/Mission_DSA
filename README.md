@@ -72,6 +72,7 @@
 | [0008-string-to-integer-atoi](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0079-word-search) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -169,6 +170,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -382,4 +384,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0416-partition-equal-subset-sum) |
+## Counting
+|  |
+| ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 <!---LeetCode Topics End-->
