@@ -72,6 +72,7 @@
 | [0008-string-to-integer-atoi](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0079-word-search) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0657-robot-return-to-origin) |
 | [0917-reverse-only-letters](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0917-reverse-only-letters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
