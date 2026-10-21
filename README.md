@@ -31,6 +31,7 @@
 | [0605-can-place-flowers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0605-can-place-flowers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
@@ -248,6 +249,7 @@
 | [0048-rotate-image](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0994-rotting-oranges) |
 | [2643-row-with-maximum-ones](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
 ## Linked List
 |  |
@@ -339,6 +341,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## DP on Trees
 |  |
