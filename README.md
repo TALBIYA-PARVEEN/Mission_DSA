@@ -64,6 +64,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0070-climbing-stairs) |
 | [1922-count-good-numbers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1922-count-good-numbers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -121,6 +122,7 @@
 | [0022-generate-parentheses](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -370,6 +372,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0070-climbing-stairs) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
