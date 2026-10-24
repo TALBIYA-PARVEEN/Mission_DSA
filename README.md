@@ -75,6 +75,7 @@
 | [0008-string-to-integer-atoi](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0127-word-ladder) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0657-robot-return-to-origin) |
 | [0917-reverse-only-letters](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0917-reverse-only-letters) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0127-word-ladder) |
 | [0349-intersection-of-two-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -341,6 +343,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0226-invert-binary-tree) |
@@ -427,4 +430,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
