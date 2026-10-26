@@ -66,6 +66,7 @@
 | [0048-rotate-image](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0279-perfect-squares) |
 | [1922-count-good-numbers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1922-count-good-numbers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -128,6 +129,7 @@
 | [0070-climbing-stairs](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0279-perfect-squares](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -347,6 +349,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0279-perfect-squares) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -403,6 +406,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -434,4 +438,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0127-word-ladder) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
