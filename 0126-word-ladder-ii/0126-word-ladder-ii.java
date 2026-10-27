@@ -18,14 +18,14 @@ class Solution {
                     if (visitedThisLevel.add(next)) {
                         q.offer(next);
                     }
-                    if (next.equals(endWord)) {
-                        found = true;
-                    }
+                    // if (next.equals(endWord)) {
+                    //     found = true;
+                    // }
                 }
             }
             remaining.removeAll(visitedThisLevel);
         }
-        if (!found) return ans;
+        // if (!found) return ans;
         List<String> path = new ArrayList<>();
         path.add(endWord);
         backtrack(endWord, beginWord, parents, path, ans);
