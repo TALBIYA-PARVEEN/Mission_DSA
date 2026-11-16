@@ -197,6 +197,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -260,6 +261,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -309,6 +311,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -365,6 +368,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -373,6 +377,7 @@
 | [0563-binary-tree-tilt](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0687-longest-univalue-path) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
