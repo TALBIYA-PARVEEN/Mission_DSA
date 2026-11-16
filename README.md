@@ -22,6 +22,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0322-coin-change) |
@@ -188,6 +189,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -452,4 +454,8 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0322-coin-change) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
