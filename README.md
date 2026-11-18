@@ -35,6 +35,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0743-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
