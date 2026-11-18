@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0687-longest-univalue-path) |
+| [0743-network-delay-time](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -364,6 +366,7 @@
 | [0322-coin-change](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0994-rotting-oranges) |
@@ -441,6 +444,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -463,4 +467,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
