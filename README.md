@@ -30,6 +30,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0605-can-place-flowers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -107,6 +108,7 @@
 | [0113-path-sum-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0216-combination-sum-iii) |
+| [0473-matchsticks-to-square](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -137,6 +139,7 @@
 | [0279-perfect-squares](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0473-matchsticks-to-square](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -219,6 +222,7 @@
 | [0078-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0473-matchsticks-to-square](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
@@ -405,6 +409,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Binary Lifting
 |  |
