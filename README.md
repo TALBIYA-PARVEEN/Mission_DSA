@@ -39,6 +39,7 @@
 | [1046-last-stone-weight](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/1386-cinema-seat-allocation) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -215,6 +217,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TALBIYA-PARVEEN/Mission_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
